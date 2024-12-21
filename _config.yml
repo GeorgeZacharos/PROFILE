@@ -74,26 +74,26 @@ links:
   - linkedin:
       name: LinkedIn
       show: false
-      href: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME/
+      href: https://www.linkedin.com/in/georgioszacharos/
       icon: fab fa-linkedin
-  - googleplus:
-      name: Google+
-      show: false
-      href: https://plus.google.com/+YOUR_GOOGLEPLUS_USERNAME
-      icon: fab fa-google-plus
-  - twitter:
-      name: Twitter
-      show: true
-      href: https://twitter.com/YOUR_TWITTER_USERNAME
-      icon: fab fa-twitter
-  - weibo:
-      name: 微博
-      show: true
-      href: https://weibo.com/YOUR_WEIBO_USERNAME
-      icon: fab fa-weibo
-  - vine:
-      name: Vine
-      show: false
+  #- googleplus:
+     # name: Google+
+     #show: false
+     #href: https://plus.google.com/+YOUR_GOOGLEPLUS_USERNAME
+     #icon: fab fa-google-plus
+  #- twitter:
+     # name: Twitter
+      #show: true
+      #href: https://twitter.com/YOUR_TWITTER_USERNAME
+      #icon: fab fa-twitter
+  #- weibo:
+     # name: 微博
+      #show: true
+      #href: https://weibo.com/YOUR_WEIBO_USERNAME
+      #icon: fab fa-weibo
+  #- vine:
+     # name: Vine
+     #how: false
       href: https://vine.co/YOUR_VINE_USERNAME
       icon: fab fa-vine
   - facebook:
@@ -134,7 +134,7 @@ links:
   - github:
       name: GitHub
       show: true
-      href: https://github.com/tsjensen
+      href: https://github.com/GeorgeZacharos
       icon: fab fa-github
   - codepen:
       name: CodePen
