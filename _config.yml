@@ -73,7 +73,7 @@ links:
       icon: fab fa-xing
   - linkedin:
       name: LinkedIn
-      show: false
+      show: true
       href: https://www.linkedin.com/in/georgioszacharos/
       icon: fab fa-linkedin
   #- googleplus:
@@ -134,7 +134,7 @@ links:
   - github:
       name: GitHub
       show: true
-      href: https://github.com/GeorgeZacharos
+      href: https://github.com/GeorgeZacharos/
       icon: fab fa-github
   - codepen:
       name: CodePen
