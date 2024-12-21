@@ -86,16 +86,16 @@ links:
       #show: true
       #href: https://twitter.com/YOUR_TWITTER_USERNAME
       #icon: fab fa-twitter
-  #- weibo:
-     # name: 微博
-      #show: true
-      #href: https://weibo.com/YOUR_WEIBO_USERNAME
-      #icon: fab fa-weibo
-  #- vine:
-     # name: Vine
-     #how: false
-      #href: https://vine.co/YOUR_VINE_USERNAME
-      #icon: fab fa-vine
+  - weibo:
+      name: 微博
+      show: false
+      href: https://weibo.com/YOUR_WEIBO_USERNAME
+      icon: fab fa-weibo
+  - vine:
+      name: Vine
+      show: false
+      href: https://vine.co/YOUR_VINE_USERNAME
+      icon: fab fa-vine
   - facebook:
       name: Facebook
       show: false
@@ -109,7 +109,7 @@ links:
   - instagram:
       name: Instagram
       show: true
-      href: https://www.instagram.com/george_zx
+      href: https://www.instagram.com/george_zx/
       icon: fab fa-instagram
   - flickr:
       name: Flickr
