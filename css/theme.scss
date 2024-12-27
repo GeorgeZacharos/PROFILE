@@ -1,5 +1,5 @@
 ---
-# ========= Fuse Core Jekyll Theme ============================================================== #
+#========= Fuse Core Jekyll Theme ============================================================== #
 ---
 
 $fc-footer-height: 44px;
@@ -15,13 +15,17 @@ body {
     margin-bottom: $fc-footer-height;
 }
 
+
+
 .fullscreen-background {
-    background: url("https://georgezacharos.github.io/PROFILE/background.jpg") no-repeat center center fixed; 
+    background: url("georgezacharos.github.io/PROFILE/background.jpg") no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 }
+
+
 
 div.glass-pane {
     background-color: rgba(0, 0, 0, 0.5);
